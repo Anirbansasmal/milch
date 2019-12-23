@@ -1,0 +1,66 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group >
+
+        <item
+            android:id="@+id/nav_profile"
+            android:title="Profile" />
+
+        <item
+            android:id="@+id/nav_reference"
+            android:title="Reference" />
+
+        <item
+            android:id="@+id/nav_applied_job"
+            android:title="Applied Job" />
+
+        <item
+            android:id="@+id/nav_get_job"
+            android:title="Get Job" />
+
+        <item
+            android:id="@+id/nav_interview"
+            android:title="Interview" />
+
+        <item
+            android:id="@+id/nav_screening"
+            android:title="Screening" />
+
+        <item
+            android:id="@+id/nav_search_job"
+            android:title="Search Job" />
+
+        <item
+            android:id="@+id/nav_search_result"
+            android:title="Search Result" />
+
+        <!--<item
+            android:id="@+id/nav_services"
+            android:title="Services" />
+
+        <item
+            android:id="@+id/nav_jobs"
+            android:title="Jobs">
+        </item>
+
+        <item
+            android:id="@+id/nav_resume"
+            android:title="Resume Creator">
+        </item>-->
+
+        <item
+            android:id="@+id/nav_contact_us"
+            android:title="Contact Us" />
+
+        <item
+            android:id="@+id/nav_about_us"
+            android:title="About Us" />
+
+
+        <item
+            android:id="@+id/nav_log_out"
+            android:title="Sign out"/>
+    </group>
+
+
+</menu>
